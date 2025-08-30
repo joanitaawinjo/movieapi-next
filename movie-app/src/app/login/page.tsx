@@ -18,7 +18,7 @@ export default function SignInPage() {
                 className="absolute inset-0 bg-cover bg-center"
                 style={{
                     backgroundImage:
-                        "url('https://i.pinimg.com/1200x/f5/f1/6d/f5f16d6b33c0078389c9b452138421c6.jpg')",
+                        "url(https://wallpapers.com/images/hd/movie-pictures-gpui8crwapvn1v96.jpg)",
                 }}/>
             <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/50 to-black/30" />
             <form
